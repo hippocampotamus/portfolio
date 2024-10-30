@@ -1,4 +1,4 @@
-sentence_transformers
-pandas 
-streamlit
+sentence-transformers
+transformers
+huggingface-hub
 # sklearn.metrics.pairwise
