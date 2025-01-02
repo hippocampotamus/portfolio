@@ -10,6 +10,10 @@
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
 | **Project 3**<br> 기후변환 데이터 분석                          | **Project 4**<br> Short description for project 4               |
 
+| [![SQL 데이터 분석 포트폴리오](포트폴리오3.png)](공모전3.pdf)  | [![Project 4 Thumbnail](클리닝웨이브이미지.png)](link_to_project4.pdf) |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+| **Project 3**<br> 기후변환 데이터 분석                          | **Project 4**<br> Short description for project 4               |
+
 ## Additional Resources
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
