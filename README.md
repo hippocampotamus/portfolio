@@ -1,4 +1,4 @@
-| **Project 1** |  [택배 물류량과 사회적 요인 간의 관계 분석](택배_포폴250102.pdf) |
+| **프로젝트명** |  [택배 물류량과 사회적 요인 간의 관계 분석](택배_포폴250102.pdf) |
 |:-------------------------:|:---------------------------------------------------------|
 | 대표이미지 | <a href="택배_포폴250102.pdf"><img src="택배포폴.png" width="410" alt="SQL 포트폴리오1"></a> <a href="택배_포폴250102.pdf"><img src="택배포폴2.png" width="410" alt="SQL 포트폴리오2"></a> |
 | **주요기술**| Oracle SQL, SQL Regression Model, R  |
@@ -7,7 +7,7 @@
 | **담당업무**| - 데이터 전처리<br>- Index 및 제약, 비정규화 컬럼 추가<br>- 데이터 탐색, 시각화, 분석<br>- 발표자료(PPT) 제작 |
 
 
-| **Project 2** |  [선박 사고 분석을 통한 해양 안전 관리 체계 개선 방안](연안_포트폴리오_250104.pdf) |
+| **프로젝트명** |  [선박 사고 분석을 통한 해양 안전 관리 체계 개선 방안](연안_포트폴리오_250104.pdf) |
 |:-------------------------:|:---------------------------------------------------------|
 | 대표이미지 | <a href="연안_포트폴리오_250104.pdf"><img src="연안포폴.png" width="410" alt="파이썬 포트폴리오1"></a> <a href="연안_포트폴리오_250104.pdf"><img src="연안포폴3.png" width="410" alt="파이썬 포트폴리오2"></a> |
 | **주요기술**| Linux CentOS, MariaDB, Python (Matplotlib, Seaborn, Folium)  |
@@ -16,7 +16,7 @@
 | **담당업무**| -	Linux CentOS과 MariaDB를 기반으로 별도의 다운로드 없이 테이블을 실시간으로 조회할 수 있도록 DBMS 설계 및 구축<br>-	오픈 API를 활용한 대규모 데이터 수집<br>-	데이터 정제 및 전처리를 통해 분석 가능한 형태로 가공<br>-	시공간 데이터를 기반으로 한 데이터 조인 및 통합 작업 수행<br>-	결측치 처리 및 비정규화 컬럼 추가를 진행하여 데이터 품질 개선<br>-	데이터 시각화를 중심으로 한 탐색 및 분석을 통해 주요 인사이트 도출<br>-	분석 결과와 자료조사를 기반으로 정책적 제안 도출<br>-	발표 자료(PPT) 제작 및 발표 |
 
 
-| **Project 3** |  [클리닝웨이브: AI를 통해 해양쓰레기의 보고 및 모니터링 환경을 제공하는 앱과 웹 기반 통합 서비스](https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f) |
+| **프로젝트명** |  [클리닝웨이브: AI를 통해 해양쓰레기의 보고 및 모니터링 환경을 제공하는 앱과 웹 기반 통합 서비스](https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f) |
 |:-------------------------:|:---------------------------------------------------------|
 | 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" height="350" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" height="350" alt="머신러닝 포트폴리오2"></a> |
 | **주요기술**| Linux CentOS, Docker, Python(PyTorch, Swin Transformer, Mask R-CNN)  |
