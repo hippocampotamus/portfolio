@@ -16,11 +16,11 @@
 
 | **Project 3** |  [클리닝웨이브: AI를 통해 해양쓰레기의 보고 및 모니터링 환경을 제공하는 앱과 웹 기반 통합 서비스](https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f) |
 |:-------------------------:|:---------------------------------------------------------|
-| 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" width="410" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" width="410" alt="머신러닝 포트폴리오2"></a> |
+| 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" width="150" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" width="500" alt="머신러닝 포트폴리오2"></a> |
 | **주요기술**| Linux CentOS, Docker, Python(PyTorch, Swin Transformer, Mask R-CNN)  |
 | **개발기간 및 인원**| 24.09.10 ~ 24.12.03 (3개월) / 4명 |
 | **내용**| -	머신러닝 기반 앱 개발을 통해 해양쓰레기 수거 공공근로자인 바다환경지킴이의 업무 보고를 간편화<br>-	웹 백오피스를 통해 담당 공무원의 바다환경지킴이 관리 및 수거 내역 데이터를 분석할 수 있는 시스템 구축 |
-| **담당업무**| 1. 머신러닝 모델 개발<br>-	AI Hub 모델을 활용한 전이 학습 수행 및 성능 지표 평가<br>-	클래스 추가를 위한 데이터셋 구축: 웹 크롤링을 통해 수집한 데이터에 바운딩박스 처리 적용<br>-	AI 모델 개발 모식도 작성<br>2. 서버 시스템 구축 및 테스트<br>-	Linux CentOS 환경에서 Docker를 활용한 서버 환경 구축<br>3. 서비스 기획 및 관리<br>-	서비스 기획 및 전문가 인터뷰를 기반으로 기능 요구사항 도출<br>-	개발 팀과 협력하여 서비스 플로우 차트 및 시퀀스 다이어그램 작성<br>-	프로젝트 스케줄 관리 및 업무 분배<br>-	발표자료(PPT) 제작 및 발표 |
+| **담당업무**| **1. 머신러닝 모델 개발**<br>-	AI Hub 모델을 활용한 전이 학습 수행 및 성능 지표 평가<br>-	클래스 추가를 위한 데이터셋 구축: 웹 크롤링을 통해 수집한 데이터에 바운딩박스 처리 적용<br>-	AI 모델 개발 모식도 작성<br>**2. 서버 시스템 구축 및 테스트**<br>-	Linux CentOS 환경에서 Docker를 활용한 서버 환경 구축<br>**3. 서비스 기획 및 관리**<br>-	서비스 기획 및 전문가 인터뷰를 기반으로 기능 요구사항 도출<br>-	개발 팀과 협력하여 서비스 플로우 차트 및 시퀀스 다이어그램 작성<br>-	프로젝트 스케줄 관리 및 업무 분배<br>-	발표자료(PPT) 제작 및 발표 |
 
 ## Certifications
 
