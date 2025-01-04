@@ -1,44 +1,4 @@
-# Portfolio Projects
-
-## Projects Overview
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Link with Icon</title>
-  <style>
-    .custom-link {
-      display: inline-flex;
-      align-items: center;
-      text-decoration: none;
-      color: black; /* 텍스트 색상 */
-      font-weight: bold;
-    }
-
-    .custom-link:hover {
-      color: gray; /* 마우스 호버 시 색상 */
-    }
-
-    .custom-link img {
-      margin-left: 5px; /* 텍스트와 아이콘 간의 간격 */
-      width: 16px;
-      height: 16px;
-    }
-  </style>
-</head>
-<body>
-  <a href="#택배_포폴250102.pdf" class="custom-link">
-    <span><strong>Project 1</strong><br>택배 물류량과 사회적 요인 간의 관계 분석</span>
-    <img src="https://img.icons8.com/ios-filled/50/000000/external-link.png" alt="Link Icon">
-  </a>
-</body>
-</html>
-
-
-
-| [**Project 1**<br> 택배 물류량과 사회적 요인 간의 관계 분석](#택배_포폴250102.pdf)        |
+| **Project 1**<br> [택배 물류량과 사회적 요인 간의 관계 분석](#택배_포폴250102.pdf)        |
 |:-----------------------------------------------------------------:|
 | [![SQL 데이터 분석 포트폴리오](택배포폴.png)](택배_포폴250102.pdf) | [![SQL 데이터 분석 포트폴리오](택배포폴2.png)](택배_포폴250102.pdf) | 
 | [**주요기술**<br> Oracle SQL, SQL Regression Model, R, Tableau                                                                   |
