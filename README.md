@@ -5,8 +5,8 @@
 | **개발기간 및 인원**| 24.05.16 ~ 24.06.20 (1개월) / 2명  |
 | **내용**| - 출산 및 육아용품 물류량과 출산 관련 지표 간 상관분석, 회귀분석 <br>- 명절 물류 수요의 연간 추이 분석<br> - 오배송 발생 현황 분석을 통한 오배송량 감소 방안 모색 |
 | **담당업무**| - 데이터 전처리<br>- Index 및 제약, 비정규화 컬럼 추가<br>- 데이터 탐색, 시각화, 분석<br>- 발표자료(PPT) 제작 |
-<br>
-<br>
+
+
 | **Project 2** |  [선박 사고 분석을 통한 해양 안전 관리 체계 개선 방안](연안_포트폴리오_250104.pdf) |
 |:-------------------------:|:---------------------------------------------------------|
 | 대표이미지 | <a href="연안_포트폴리오_250104.pdf"><img src="연안포폴.png" width="410" alt="파이썬 포트폴리오1"></a> <a href="연안_포트폴리오_250104.pdf"><img src="연안포폴3.png" width="410" alt="파이썬 포트폴리오2"></a> |
@@ -14,8 +14,8 @@
 | **개발기간 및 인원**| 24.09.11 ~ 24.10.24 (1개월) / 3명 |
 | **내용**| -	정책적 개입을 하기에 적합한 선박 유형과 지역을 중심으로 주요 위험 요인을 식별<br>-	데이터 분석 및 시각화를 통해 선박 사고에서 인명 구조와 재산 손실 감소를 목표로 한 정책 개선 방안 제안 |
 | **담당업무**| -	Linux CentOS과 MariaDB를 기반으로 별도의 다운로드 없이 테이블을 실시간으로 조회할 수 있도록 DBMS 설계 및 구축<br>-	오픈 API를 활용한 대규모 데이터 수집<br>-	데이터 정제 및 전처리를 통해 분석 가능한 형태로 가공<br>-	시공간 데이터를 기반으로 한 데이터 조인 및 통합 작업 수행<br>-	결측치 처리 및 비정규화 컬럼 추가를 진행하여 데이터 품질 개선<br>-	데이터 시각화를 중심으로 한 탐색 및 분석을 통해 주요 인사이트 도출<br>-	분석 결과와 자료조사를 기반으로 정책적 제안 도출<br>-	발표 자료(PPT) 제작 및 발표 |
-<br>
-<br>
+
+
 | **Project 3** |  [클리닝웨이브: AI를 통해 해양쓰레기의 보고 및 모니터링 환경을 제공하는 앱과 웹 기반 통합 서비스](https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f) |
 |:-------------------------:|:---------------------------------------------------------|
 | 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" height="300" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" width="300" alt="머신러닝 포트폴리오2"></a> |
