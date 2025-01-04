@@ -18,7 +18,7 @@
 
 | **Project 3** |  [클리닝웨이브: AI를 통해 해양쓰레기의 보고 및 모니터링 환경을 제공하는 앱과 웹 기반 통합 서비스](https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f) |
 |:-------------------------:|:---------------------------------------------------------|
-| 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" height="300" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" height="300" alt="머신러닝 포트폴리오2"></a> |
+| 대표이미지 | <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브이미지.png" height="350" alt="머신러닝 포트폴리오1"></a> <a href="https://www.canva.com/design/DAGWhpQbPbA/ClM7v-Ti0NCzVQkbfH_3pA/view?utm_content=DAGWhpQbPbA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h106385096f"><img src="클리닝웨이브백오피스이미지.png" height="350" alt="머신러닝 포트폴리오2"></a> |
 | **주요기술**| Linux CentOS, Docker, Python(PyTorch, Swin Transformer, Mask R-CNN)  |
 | **개발기간 및 인원**| 24.09.10 ~ 24.12.03 (3개월) / 4명 |
 | **내용**| -	머신러닝 기반 앱 개발을 통해 해양쓰레기 수거 공공근로자인 바다환경지킴이의 업무 보고를 간편화<br>-	웹 백오피스를 통해 담당 공무원의 바다환경지킴이 관리 및 수거 내역 데이터를 분석할 수 있는 시스템 구축 |
